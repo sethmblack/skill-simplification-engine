@@ -1,11 +1,10 @@
 ---
 name: simplification-engine
-description: Take complex technical or abstract concepts and make them accessible
-  without losing essential truth.
+description: Take complex technical or abstract concepts and make them accessible without losing essential truth.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - simplification-engine
 - writing
