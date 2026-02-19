@@ -4,7 +4,8 @@ description: Take complex technical or abstract concepts and make them accessibl
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4984
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - simplification-engine
 - writing
